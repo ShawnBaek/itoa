@@ -16,3 +16,7 @@ The basic logic for the conversion process has been generated using ChatGPT.
 
 # TODO
 Add unit tests to ensure the accuracy of the conversion process.
+
+# References
+https://developer.android.com/guide/topics/resources/localization
+https://developer.apple.com/documentation/xcode/localization
