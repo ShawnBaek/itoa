@@ -1,4 +1,4 @@
-# itoa (naming is inspired by the atoi function in the C language)
+# itoa (naming is inspired by the atoi and itoa function in the C language)
 Convert iOS Localized.strings to Android strings.xml
 
 # Motivation
