@@ -20,3 +20,4 @@ Add unit tests to ensure the accuracy of the conversion process.
 # References
 https://developer.android.com/guide/topics/resources/localization
 https://developer.apple.com/documentation/xcode/localization
+https://localise.biz/free/converter/ios-to-android
